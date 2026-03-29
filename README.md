@@ -14,7 +14,7 @@ This repository contains my comprehensive Digital Literacy Portfolio, submitted 
 
 ### Module 1: Digital Literacy Awareness
 Created a visual infographic to help peers understand digital literacy and safe internet practices.
-- **Deliverable:** 
+- **Deliverable:** https://canva.link/i67jxo8bpzh3nv4
 - **Folder:** `/task-1-presentation/`
 
 ### Module 2: Student Digital Portfolio
