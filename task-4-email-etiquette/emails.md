@@ -17,11 +17,8 @@ Thank you very much for your time, understanding, and consideration.
 Best regards,
 
 Nikhil
-
 B.Tech CSE (AI/ML), First Year
-
 Registration No: 25BAI10956
-
 VIT Bhopal University
 
 ---
@@ -45,7 +42,5 @@ Thank you for your time and consideration.
 Sincerely,
 
 Nikhil
-
 7887635641
-
 Linkedin: https://www.linkedin.com/in/nikhil-patil-657b08307/
